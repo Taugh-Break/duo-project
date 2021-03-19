@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://images.pexels.com/photos/5717479/pexels-photo-5717479.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-size: cover;
+    font-family: 'Courier New', monospace;
+}
+
+#box{
+    color: rgb(0, 0, 0);
+    text-align: center;
+   
+
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+section{
+    border: solid black;
+    padding: 98px 2px 80px 3px;
+    margin: 146px 437px 31px 535px;
+    box-shadow: 12px 12px 2px 1px rgba(69, 69, 73, 0.459);
+    font-size: 25px;
+}
+
+    button {
+        position: relative;
+        display: inline-block;
+        font-weight: bold;
+        padding: 0.25em 0.5em;
+        text-decoration: none;
+        color: #66300d;
+        background: #ECECEC;
+        border-radius: 0 15px 15px 0;
+        transition: .4s;
+      }
+    
+    button:hover {
+        background: #636363;
+    }
+
+    #isSelect {
+        position: relative;
+        display: inline-block;
+        font-weight: bold;
+        padding: 0.25em 0.5em;
+        text-decoration: none;
+        color: #66300d;
+        background: #ECECEC;
+        border-radius: 0 15px 15px 0;
+        transition: .4s;
+      }
+    
+      #isSelect:hover {
+        background: #636363;
+    }
